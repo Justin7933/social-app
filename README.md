@@ -4,7 +4,7 @@
 
 ## Technologies Used
 <li>
-  <ul>React</ul>
+  React
 </li>
 
 
