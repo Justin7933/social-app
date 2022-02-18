@@ -1,5 +1,5 @@
 # Social App
-
+Social Media app where you can post, like and comment on others post. Log in or create a username. Profile pictures, profile page, and as well as a clean ui.
 
 
 ## Technologies Used
